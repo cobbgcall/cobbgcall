@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guille
-- 👀 I’m interested in Cloud, IaC, Automation and DevOps 
+- 👀 I’m interested in Cloud and DevOps. 
 - 🌱 I’m currently learning Ansible, Terraform, Docker, Kubernetes...
 - 📫 How to reach me cobbgcall@yahoo.com.
 
