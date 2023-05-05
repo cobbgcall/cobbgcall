@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guille
 - 👀 I’m interested in Cloud and DevOps. 
-- 🧾 AWS Certified X 3 (SysOps, Architect, and Developer Associate) | GCP Associate Engineer Certified x 1
+- 🧾 AWS Certified X 4 (SysOps, Architect, Developer Associate, and DevOps Professional) | GCP Associate Engineer Certified x 1
  
 - 🌱 I’m currently learning AWS, GCP, Terraform, Docker, Kubernetes...
 - 📫 How to reach me cobbgcall@gmail.com.
