@@ -3,7 +3,7 @@
 - 🧾 AWS Certified X 4 (SysOps, Architect, Developer Associate, and DevOps Professional) | GCP Associate Engineer Certified x 1
  
 - 🌱 I’m currently learning AWS, GCP, Terraform, Docker, Kubernetes...
-- 📫 How to reach me cobbgcall@gmail.com.
+- 📫 To reach me use: cobbgcall@gmail.com.
 
 I'm going to use this account to share my exercicies with the community, with the main goal to teach and learn more about this amazing world of the technology.
 
